@@ -1,0 +1,3 @@
+[submodule "cgltf"]
+	path = include
+	url = https://github.com/jkuhlmann/cgltf
